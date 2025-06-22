@@ -3,7 +3,8 @@
 ✅ Objective:
 To monitor and analyze defect rates using quality control charts and apply statistical tests to compare performance across different groups.
 
-📌 Key Components (Short):
+📌 Key Components :
+
    p-Chart: Tracks defect rate over time with UCL/LCL and center line.
    Z-test: Checks if last day’s defect rate is significantly higher than average.
    CP & CPK: Measures process capability (Cp) and performance (Cpk).
