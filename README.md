@@ -17,7 +17,9 @@ To monitor and analyze defect rates using quality control charts and apply stati
    
    Missing Values: No missing data detected.
 
-🔧Tech Used
+
+🔧Tech Used:
+
    Python, Pandas, Matplotlib
    SPC rules implementation
 
