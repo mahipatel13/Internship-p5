@@ -6,6 +6,7 @@ To monitor and analyze defect rates using quality control charts and apply stati
 📌 Key Components :
 
    p-Chart: Tracks defect rate over time with UCL/LCL and center line.
+   
    Z-test: Checks if last day’s defect rate is significantly higher than average.
    CP & CPK: Measures process capability (Cp) and performance (Cpk).
    CUSUM Chart: Detects small sustained shifts in defect rate.
