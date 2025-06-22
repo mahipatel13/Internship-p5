@@ -21,6 +21,7 @@ To monitor and analyze defect rates using quality control charts and apply stati
 🔧Tech Used:
 
    Python, Pandas, Matplotlib
+   
    SPC rules implementation
 
    
